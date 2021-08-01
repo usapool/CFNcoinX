@@ -1,0 +1,2 @@
+# CFNcoinX
+GenX of CFNcoin 
