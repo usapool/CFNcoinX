@@ -3,7 +3,7 @@ CFNcoinX Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/CFNcoinX-project/CFNcoinX.svg?branch=master)](https://travis-ci.org/CFNcoinX-project/CFNcoinX)
 
-https://CFNcoinX.org
+https://cryptofriends.network/
 
 What is CFNcoinX?
 ----------------
